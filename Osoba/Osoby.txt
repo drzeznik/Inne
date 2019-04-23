@@ -1,0 +1,11 @@
+Adam,Kowalski,2012-01-19,6436443456
+Adam,Polak,2017-05-13,5353
+Ada,Los,1923-09-15,4242532
+Jan,Barnabas,1905-05-12
+Marek,Afek,2012-01-19,6463363
+Damian,Rzeznik,1923-09-15,3131131
+Adam,Polak,2017-05-13,5353
+Ada2,Los2,1923-09-15
+
+
+
